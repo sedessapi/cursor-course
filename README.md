@@ -1,5 +1,7 @@
 # Vibe Coding with Cursor Course
 
+Assumpta est Mariae Aug 15, 2025
+
 # Course Assets / Contact Me
 [Course Notes](https://shawnesquivel.notion.site/Cursor-Vibe-Coding-Bootcamp-1d123536d7d5800a9682e4f76ca09df2)
 
